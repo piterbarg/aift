@@ -1,4 +1,4 @@
-# Automatic Inverse Function Theorem
+# Automatic Implicit Function Theorem
 ## Code companion
 
 Code to go with our paper, see [below](#paper)
@@ -8,4 +8,4 @@ Code to go with our paper, see [below](#paper)
 * [AIFT_best_fit_example.ipynb](AIFT_best_fit_example.ipynb): A version of the the main notebook where least-squares best-fit replaces the exact fit calibration problem
 
 ### Paper
-> Dmitri Goloubentsev, Evgeny Lakshtanov, Vladimir V. Piterbarg (2021), Automatic Inverse Function Theorem, working paper
+> Goloubentsev, Dmitri and Lakshtanov, Evgeny and Piterbarg, Vladimir, Automatic Implicit Function Theorem (December 14, 2021). Available at SSRN: http://ssrn.com/abstract=3984964
